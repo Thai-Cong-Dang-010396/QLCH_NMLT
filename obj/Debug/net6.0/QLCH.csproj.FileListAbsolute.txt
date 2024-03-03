@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\bin\Debug\net6.0\QLCH.exe
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\bin\Debug\net6.0\QLCH.deps.json
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\bin\Debug\net6.0\QLCH.runtimeconfig.json
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\bin\Debug\net6.0\QLCH.dll
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\bin\Debug\net6.0\QLCH.pdb
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.AssemblyInfo.cs
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.dll
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\refint\QLCH.dll
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.pdb
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\QLCH.genruntimeconfig.cache
+C:\Users\Admin\Desktop\23810015_NMLT\QLCH\obj\Debug\net6.0\ref\QLCH.dll
